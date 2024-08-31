@@ -34,7 +34,11 @@
             btnFont = new Button();
             btnColor = new Button();
             btnMyDlg = new Button();
-            richTextBox1 = new RichTextBox();
+            richTxtBox = new RichTextBox();
+            dlgColor = new ColorDialog();
+            dlgFont = new FontDialog();
+            dlgOpen = new OpenFileDialog();
+            dlgSave = new SaveFileDialog();
             SuspendLayout();
             // 
             // btnOpen
@@ -45,6 +49,7 @@
             btnOpen.TabIndex = 0;
             btnOpen.Text = "Open";
             btnOpen.UseVisualStyleBackColor = true;
+            btnOpen.Click += btnOpen_Click;
             // 
             // btnSave
             // 
@@ -55,6 +60,7 @@
             btnSave.TabIndex = 1;
             btnSave.Text = "Save";
             btnSave.UseVisualStyleBackColor = true;
+            btnSave.Click += btnSave_Click;
             // 
             // btnExit
             // 
@@ -75,6 +81,7 @@
             btnFont.TabIndex = 3;
             btnFont.Text = "Font";
             btnFont.UseVisualStyleBackColor = true;
+            btnFont.Click += btnFont_Click;
             // 
             // btnColor
             // 
@@ -85,6 +92,7 @@
             btnColor.TabIndex = 4;
             btnColor.Text = "Color";
             btnColor.UseVisualStyleBackColor = true;
+            btnColor.Click += btnColor_Click;
             // 
             // btnMyDlg
             // 
@@ -95,22 +103,27 @@
             btnMyDlg.TabIndex = 5;
             btnMyDlg.Text = "MyDialog";
             btnMyDlg.UseVisualStyleBackColor = true;
+            btnMyDlg.Click += btnMyDlg_Click;
             // 
-            // richTextBox1
+            // richTxtBox
             // 
-            richTextBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            richTextBox1.Location = new Point(12, 60);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(519, 233);
-            richTextBox1.TabIndex = 6;
-            richTextBox1.Text = "";
+            richTxtBox.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            richTxtBox.Location = new Point(12, 60);
+            richTxtBox.Name = "richTxtBox";
+            richTxtBox.Size = new Size(519, 233);
+            richTxtBox.TabIndex = 6;
+            richTxtBox.Text = "";
+            // 
+            // dlgOpen
+            // 
+            dlgOpen.InitialDirectory = "D:";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(544, 354);
-            Controls.Add(richTextBox1);
+            Controls.Add(richTxtBox);
             Controls.Add(btnMyDlg);
             Controls.Add(btnColor);
             Controls.Add(btnFont);
@@ -132,6 +145,10 @@
         private Button btnFont;
         private Button btnColor;
         private Button btnMyDlg;
-        private RichTextBox richTextBox1;
+        private RichTextBox richTxtBox;
+        private ColorDialog dlgColor;
+        private FontDialog dlgFont;
+        private OpenFileDialog dlgOpen;
+        private SaveFileDialog dlgSave;
     }
 }

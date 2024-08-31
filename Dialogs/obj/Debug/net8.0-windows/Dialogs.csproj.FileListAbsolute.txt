@@ -1,0 +1,17 @@
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\bin\Debug\net8.0-windows\Dialogs.exe
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\bin\Debug\net8.0-windows\Dialogs.deps.json
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\bin\Debug\net8.0-windows\Dialogs.runtimeconfig.json
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\bin\Debug\net8.0-windows\Dialogs.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\bin\Debug\net8.0-windows\Dialogs.pdb
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.Form1.resources
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.csproj.GenerateResource.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.AssemblyInfoInputs.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.AssemblyInfo.cs
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.csproj.CoreCompileInputs.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\refint\Dialogs.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.pdb
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.genruntimeconfig.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\ref\Dialogs.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11\Dialogs\obj\Debug\net8.0-windows\Dialogs.MyDialog.resources
